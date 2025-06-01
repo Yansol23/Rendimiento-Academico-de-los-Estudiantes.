@@ -25,8 +25,9 @@ Comprender qué variables tienen mayor influencia en los resultados académicos 
 
 *****************************************************************************
 **Preguntas de Investigación o Hipótesis**
-1. •	¿Qué factores influyen en que un estudiante apruebe o desapruebe el ciclo lectivo?
-2. 
+1. ¿Cuáles son los perfiles de estudiantes con mayor riesgo de desaprobar según sus características académicas y sociales?
+2. ¿Qué variables predicen mejor el rendimiento académico de un estudiante?
+3. ¿Qué combinación de factores predice con mayor eficacia el fracaso escolar?
 
 *****************************************************************************
 **Autora:** Barrios, Yanina Soledad
