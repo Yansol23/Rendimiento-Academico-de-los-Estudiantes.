@@ -5,7 +5,7 @@
   </h2>
 </div>
 
-![Alumnos](https://github.com/Yansol23/Alumnos/blob/main/references/figures/images.jpeg)
+![Alumnos](https://github.com/Yansol23/Alumnos/blob/main/reports/figuras/images.jpeg)
 
 ## Tecnicatura Superior en Ciencias de Datos e Inteligencia Artificial.
 
