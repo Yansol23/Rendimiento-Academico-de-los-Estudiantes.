@@ -33,7 +33,7 @@ Comprender qué variables tienen mayor influencia en los resultados académicos 
 *****************************************************************************
 **Autora:** Barrios, Yanina Soledad
 
-![Perfil]
+![Perfil](https://github.com/Yansol23/Alumnos/blob/main/references/figures/Perfil.jpg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=edfedo" alt="Vistas de perfil" />
