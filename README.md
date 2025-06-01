@@ -41,7 +41,7 @@ Comprender qué variables tienen mayor influencia en los resultados académicos 
     <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT" />
   </a>
 </p>
-## Descripción
+
 
 Project Organization
 ------------
