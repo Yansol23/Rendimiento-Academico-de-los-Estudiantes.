@@ -5,6 +5,7 @@
   </h2>
 </div>
 
+![Alumnos](https://github.com/Yansol23/Alumnos/blob/main/references/figures/images.jpeg)
 
 ## Tecnicatura Superior en Ciencias de Datos e Inteligencia Artificial.
 
@@ -32,7 +33,7 @@ Comprender qué variables tienen mayor influencia en los resultados académicos 
 *****************************************************************************
 **Autora:** Barrios, Yanina Soledad
 
-![Perfil](https://github.com/Yansol23/Alumnos/blob/main/references/figures/images.jpeg)
+![Perfil]
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=edfedo" alt="Vistas de perfil" />
