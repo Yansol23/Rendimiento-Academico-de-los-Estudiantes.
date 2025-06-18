@@ -31,6 +31,9 @@ Comprender qué variables tienen mayor influencia en los resultados académicos 
 3. ¿Qué combinación de factores predice con mayor eficacia el fracaso escolar?
 
 *****************************************************************************
+Video de Presentación :https://drive.google.com/file/d/1d5obntt0vy14Awfz01g798QHnHds6E_M/view?usp=sharing
+
+
 **Autora:** Barrios, Yanina Soledad
 
 ![Perfil](https://github.com/Yansol23/Alumnos/blob/main/reports/figuras/Autora.png)
